@@ -9,3 +9,6 @@ const getVowelCount = (inputStr) => {
     return totalVowelCount;
 }
 console.log(getVowelCount('hello how are you today programiz website?'))
+
+
+///gowtham
