@@ -20,4 +20,3 @@ const sortArr = (inputArr) => {
 
 console.log(sortArr(unSortArr));
 
-// Hello buddy
