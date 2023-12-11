@@ -1,3 +1,5 @@
+// Bubble sort
+
 let unSortArr = [4,-1,34,9,-9,103]
 
 const sortArr = (inputArr) => {
